@@ -5,6 +5,8 @@
 +  I have knowledge of the MVC Website model and Object Oriented Programming - OOP programming techniques.
 
 - 🌍  I'm based in Viet Nam
+- ✉️  You can contact me at mwin11012001@gmail.com
+## Skills
 
 <!--
 ** .
