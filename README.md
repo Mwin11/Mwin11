@@ -3,6 +3,9 @@
 - I am a senior student majoring in information technology at Ho Chi Minh City University of Industry. 
 - Although I do not have much experience working in a corporate environment, I have experience in self-study and have been exposed to many different programming languages ​​during my studies at school as well as self-study such as: C/C++, Java, PHP, Javascript, NodeJS, so I can adapt well to new languages. 
 - I have knowledge of the MVC Website model and Object Oriented Programming - OOP programming techniques.
+
+🌍  I'm based in Viet Nam
+
 <!--
 ** .
 
